@@ -1,0 +1,23 @@
+{
+  "name": "bower2dist",
+  "version": "0.0.0",
+  "description": "todo",
+  "main": "bower2dist.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bower2dist/bower2dist.git"
+  },
+  "keywords": [
+    "bower",
+    "dist"
+  ],
+  "author": "Shawn Iwinski <shawn@iwin.ski> (http://shawn.iwin.ski)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bower2dist/bower2dist/issues"
+  },
+  "homepage": "https://github.com/bower2dist/bower2dist#readme"
+}
